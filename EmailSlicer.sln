@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSlicer", "EmailSlicer\EmailSlicer.csproj", "{FD3B6B33-718B-4D4D-B360-A6E45A649679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD3B6B33-718B-4D4D-B360-A6E45A649679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3B6B33-718B-4D4D-B360-A6E45A649679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3B6B33-718B-4D4D-B360-A6E45A649679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3B6B33-718B-4D4D-B360-A6E45A649679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98FB8952-8454-49CD-A8D1-B654C90FAD1A}
+	EndGlobalSection
+EndGlobal
